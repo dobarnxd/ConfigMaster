@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589002469340",
+    "project_id": "configmaster-246c2",
+    "storage_bucket": "configmaster-246c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589002469340:android:a65122ce2fe19e8c4fa919",
+        "android_client_info": {
+          "package_name": "com.example.routerkonfiguralo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589002469340-9pbim6iaomvbgechk6dmvu2o1d3k32ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.routerkonfiguralo",
+            "certificate_hash": "ba04b98f34f8d72faae280a88557a89f6a37f7b4"
+          }
+        },
+        {
+          "client_id": "589002469340-8mfcrb5r23mf6js4e86kthc0ot52g95q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBaClwEeznvun_JUvUj5TJXal5uTCvMw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589002469340-8mfcrb5r23mf6js4e86kthc0ot52g95q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

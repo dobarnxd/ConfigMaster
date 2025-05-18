@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.RouterKonfiguralo.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/icons</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+    </style>
+
+    <style name="Widget.RouterKonfiguralo.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="android:textColorHint">@color/secondary_text</item>
+    </style>
+
+    <style name="Widget.RouterKonfiguralo.TextInputEditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="Widget.RouterKonfiguralo.CardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/primary_light</item>
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardElevation">@dimen/card_elevation</item>
+    </style>
+</resources> 

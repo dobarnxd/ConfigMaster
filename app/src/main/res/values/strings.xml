@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConfigMaster</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="confirm_password">Jelszó megerősítése</string>
+    <string name="router_ip">Router IP cím</string>
+    <string name="save_settings">Beállítások mentése</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="welcome">Üdvözöllek %1$s!</string>
+    <string name="register_text">Nincs még fiókod? <b><u>Regisztrálj!</u></b></string>
+    <string name="login_text">Már van fiókod? <b><u>Jelentkezz be!</u></b></string>
+    <string name="email">Email</string>
+    <string name="udvozollek">Üdvözöllek!</string>
+    <string name="router_settings">Router beállítások</string>
+</resources>
